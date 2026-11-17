@@ -1,1 +1,1 @@
-Chemistry student interested in applications of AI in life sciences, particularly neuroscience, pharmaceuticals, and biology. AI for brain imaging and reconstruction, pharmaceutical generation, and cellular automata are some of my favorite topics.
+Computer Science student interested in applications of AI in life sciences. Particularly interested in world models and cellular automata
